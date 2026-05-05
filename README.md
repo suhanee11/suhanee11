@@ -1,6 +1,6 @@
 # Hi, I'm Suhanee Gupta 👋
 
-🎓 CSE Student at VIT Vellore, Delhi  
+🎓 CSE Student at VIT Vellore  
 💻 Passionate about Web Development, React, Java & SQL  
 🌱 Open Source Contributor | Aspiring Software Developer
 
@@ -9,9 +9,8 @@
 ## 🏆 Achievements
 
 ### GirlScript Summer of Code 2026 ✅
-![GSSoC 2026 Contributor](./contributor.png)
-![GSSoC 2026 Open Source Track](./open.png)
-![GSSoC 2026 AI/Agents Track](./ai.png)
+
+<img src="./contributor.png" width="150"/> <img src="./open.png" width="150"/> <img src="./ai.png" width="150"/>
 
 **Accepted · GirlScript Summer of Code 2026**  
 📌 Tracks: Open Source Track + AI / Agents Track
